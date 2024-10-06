@@ -4,7 +4,7 @@ This SIC/XE assembler code project is designed to read and process assembly lang
  
 # Components
 ## Input Files:
-
+ 
 ### Instructions File:
 - Contains the assembly language source code in SIC/XE format, including header (H), text (t), and end (E) records. Each instruction line specifies operation codes, addresses, and data in a structured format.
 - Table File: Includes the symbol table and literal table, providing addresses and object codes for the various operations defined in the instruction file. This file is crucial for resolving symbolic references and generating accurate object code.
