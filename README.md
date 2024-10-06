@@ -10,7 +10,7 @@ This SIC/XE assembler code project is designed to read and process assembly lang
 - Table File: Includes the symbol table and literal table, providing addresses and object codes for the various operations defined in the instruction file. This file is crucial for resolving symbolic references and generating accurate object code.
 
 ### Parsing and Processing:
-
+ 
 - Table Parsing: The assembler extracts addresses and object codes from the table file. This information is used to correlate symbolic references with their respective machine codes and addresses.
 - Instruction Parsing: The assembler reads and processes instructions from the instructions file. It decodes the header record, text records, and end record, handling symbolic references and converting them into machine-readable formats.
 
