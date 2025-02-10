@@ -2,7 +2,7 @@
 This SIC/XE assembler code project is designed to read and process assembly language instructions and corresponding tables from specified text files. The primary objective of the project is to generate object code that adheres to the SIC/XE format, utilizing the provided instructions and symbol tables.
       
         
-# Components
+# Components 
 ## Input Files:
   
 ### Instructions File:
